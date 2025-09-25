@@ -142,13 +142,11 @@ Bisher war es schwierig, gezielt nach "Made in Germany"-Produkten zu suchen, wei
 <details>
 <summary><strong>🏆 Hauptmarken</strong> (Zum Erweitern klicken)</summary>
 
-```yaml
 Primäre Domains:
   - made-in-germany.global / madeingermany.global
   - made-in-germany.uk / madeingermany.uk  
   - made-in-germany.ag / madeingermany.ag
   - made-in-germany.foundation / madeingermany.foundation
-```
 
 </details>
 
