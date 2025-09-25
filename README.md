@@ -73,65 +73,73 @@ Bisher war es schwierig, gezielt nach "Made in Germany"-Produkten zu suchen, wei
 
 <div align="center">
 
-<details>
-<summary><strong>🇩🇪 50 Keywords auf Deutsch</strong> (Zum Erweitern klicken)</summary>
+### 🇩🇪 **50 Keywords auf Deutsch**
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; padding: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; padding: 20px; background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); border-radius: 15px; color: #FFD700;">
 
-1. Made in Germany Produkte
-2. Made in Germany Qualität
-3. Made in Germany Export
-4. Made in Germany Maschinenbau
-5. Made in Germany Automobilindustrie
-6. Made in Germany Medizintechnik
-7. Made in Germany Chemieindustrie
-8. Made in Germany Hightech
-9. Made in Germany Ingenieurskunst
-10. Made in Germany Innovationen
-11. Made in Germany B2B-Plattform
-12. Made in Germany Exportunternehmen
-13. Made in Germany Industriegüter
-14. Made in Germany Premiumprodukte
-15. Made in Germany Marken
-16. Made in Germany Lösungen
-17. Made in Germany Handelsplattform
-18. Made in Germany Qualitätsstandards
-19. Made in Germany Zukunftstechnologien
-20. Made in Germany Exportplattform
-21. Made in Germany Traditionsunternehmen
-22. Made in Germany Technologie
-23. Made in Germany Industrieprodukte
-24. Made in Germany Exportmärkte
-25. Made in Germany Wirtschaftskraft
-26. Made in Germany Automobilbau
-27. Made in Germany Elektrotechnik
-28. Made in Germany Bauindustrie
-29. Made in Germany Landwirtschaftstechnik
-30. Made in Germany Umwelttechnologien
-31. Made in Germany erneuerbare Energien
-32. Made in Germany Wasserstofftechnologie
-33. Made in Germany Digitalisierung
-34. Made in Germany Forschung
-35. Made in Germany Universitäten
-36. Made in Germany Handwerk
-37. Made in Germany Familienunternehmen
-38. Made in Germany Exporterfolge
-39. Made in Germany Präzisionstechnik
-40. Made in Germany Medizinforschung
-41. Made in Germany Software
-42. Made in Germany Cloudlösungen
-43. Made in Germany Plattformen
-44. Made in Germany Energieeffizienz
-45. Made in Germany Start-ups
-46. Made in Germany Mittelstand
-47. Made in Germany Großunternehmen
-48. Made in Germany Nachhaltigkeit
-49. Made in Germany Industrienetzwerk
-50. Made in Germany Weltmarktführer
+**🏭 Industrie & Produktion:**
+- Made in Germany Produkte
+- Made in Germany Qualität  
+- Made in Germany Maschinenbau
+- Made in Germany Automobilindustrie
+- Made in Germany Medizintechnik
+- Made in Germany Chemieindustrie
+- Made in Germany Hightech
+- Made in Germany Ingenieurskunst
+- Made in Germany Innovationen
+- Made in Germany Industriegüter
+- Made in Germany Premiumprodukte
+- Made in Germany Industrieprodukte
+- Made in Germany Automobilbau
+- Made in Germany Elektrotechnik
+- Made in Germany Bauindustrie
+- Made in Germany Landwirtschaftstechnik
+- Made in Germany Präzisionstechnik
+
+**🌍 Export & Handel:**
+- Made in Germany Export
+- Made in Germany B2B-Plattform
+- Made in Germany Exportunternehmen
+- Made in Germany Handelsplattform
+- Made in Germany Exportplattform
+- Made in Germany Exportmärkte
+- Made in Germany Exporterfolge
+
+**🏢 Unternehmen & Marken:**
+- Made in Germany Marken
+- Made in Germany Lösungen
+- Made in Germany Traditionsunternehmen
+- Made in Germany Familienunternehmen
+- Made in Germany Start-ups
+- Made in Germany Mittelstand
+- Made in Germany Großunternehmen
+- Made in Germany Weltmarktführer
+
+**🔬 Technologie & Innovation:**
+- Made in Germany Technologie
+- Made in Germany Qualitätsstandards
+- Made in Germany Zukunftstechnologien
+- Made in Germany Umwelttechnologien
+- Made in Germany erneuerbare Energien
+- Made in Germany Wasserstofftechnologie
+- Made in Germany Digitalisierung
+- Made in Germany Forschung
+- Made in Germany Medizinforschung
+- Made in Germany Software
+- Made in Germany Cloudlösungen
+- Made in Germany Plattformen
+- Made in Germany Energieeffizienz
+
+**🎓 Bildung & Kultur:**
+- Made in Germany Universitäten
+- Made in Germany Handwerk
+
+**💼 Wirtschaft & Nachhaltigkeit:**
+- Made in Germany Wirtschaftskraft
+- Made in Germany Nachhaltigkeit
+- Made in Germany Industrienetzwerk
 
 </div>
-
-</details>
 
 </div>
 
@@ -139,128 +147,80 @@ Bisher war es schwierig, gezielt nach "Made in Germany"-Produkten zu suchen, wei
 
 ## 🌐 **Domain Portfolio - 152 Strategische Assets**
 
-<details>
-<summary><strong>🏆 Hauptmarken</strong> (Zum Erweitern klicken)</summary>
+### 🏆 **Hauptmarken**
 
-Primäre Domains:
-  - made-in-germany.global / madeingermany.global
-  - made-in-germany.uk / madeingermany.uk  
-  - made-in-germany.ag / madeingermany.ag
-  - made-in-germany.foundation / madeingermany.foundation
+<div style="background: linear-gradient(135deg, #000000 0%, #DC143C 100%); padding: 15px; border-radius: 10px; color: #FFD700; margin: 10px 0;">
 
-</details>
+**Primäre Domains:**
+- made-in-germany.global / madeingermany.global
+- made-in-germany.uk / madeingermany.uk  
+- made-in-germany.ag / madeingermany.ag
+- made-in-germany.foundation / madeingermany.foundation
 
-<details>
-<summary><strong>🌏 Kernmärkte nach Regionen</strong> (Zum Erweitern klicken)</summary>
+</div>
 
-### 🇨🇳 **Asien & Indien**
+### 🌏 **Kernmärkte nach Regionen**
+
+#### 🇨🇳 **Asien & Indien**
 ```
-made-in-germany.asia
-made-in-germany.com.in
-made-in-germany-china.com
-made-in-germany-vietnam.com
-madeingermany.in
+made-in-germany.asia, made-in-germany.com.in, made-in-germany-china.com, 
+made-in-germany-vietnam.com, madeingermany.in
 ```
 
-### 🌍 **Afrika**
+#### 🌍 **Afrika**
 ```
-made-in-germany-africa.com
-made-in-germany.afrika
+made-in-germany-africa.com, made-in-germany.afrika
 ```
 
-### 🌎 **Lateinamerika**
+#### 🌎 **Lateinamerika**
 ```
 made-in-germany.lat
 ```
 
-### 🕌 **Arabische Welt**
+#### 🕌 **Arabische Welt**
 ```
-made-in-germany-arabia.com
-made-in-germany-arab.com
-madeingermanyarabia.com
+made-in-germany-arabia.com, made-in-germany-arab.com, madeingermanyarabia.com
 ```
 
-### 🌐 **Osteuropa & Eurasien**
+#### 🌐 **Osteuropa & Eurasien**
 ```
-made-in-germany-russia.com
-made-in-germany-turkey.com
-```
-
-</details>
-
-<details>
-<summary><strong>🏗️ MIG Struktur</strong> (Zum Erweitern klicken)</summary>
-
-```yaml
-Infrastruktur:
-  - mig.global
-  - mig.foundation
-  - mig.directory
-  - mig.charity
-  - mig.support
-  - mig-international.global
-  - mig-international.foundation
+made-in-germany-russia.com, made-in-germany-turkey.com
 ```
 
-</details>
+### 🏗️ **MIG Struktur**
 
-<details>
-<summary><strong>🔮 Zukunftsthemen & Erweiterungen</strong> (Zum Erweitern klicken)</summary>
+<div style="background: linear-gradient(135deg, #DC143C 0%, #000000 100%); padding: 15px; border-radius: 10px; color: #FFD700; margin: 10px 0;">
 
-```yaml
-Innovations-Fokus:
-  - germany-for-future.org
-  - germany-go-next.com
-  - mig-for-future.com
-  - mig-b2b.com
-```
+**Infrastruktur:**
+- mig.global
+- mig.foundation
+- mig.directory
+- mig.charity
+- mig.support
+- mig-international.global
+- mig-international.foundation
 
-</details>
+</div>
 
-<details>
-<summary><strong>📋 Komplette Domain Liste (152 Domains)</strong> (Zum Erweitern klicken)</summary>
+### 🔮 **Zukunftsthemen & Erweiterungen**
 
-```
-germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforfuture.com, 
-germanyforfuture.org, germanygonext.com, import-made-in-germany.com, m-i-g.international, 
-made-in-african.info, made-in-america.info, made-in-asia.info, made-in-australia.info, 
-made-in-cn.info, made-in-egypt.info, made-in-europeanunion.info, made-in-german.com, 
-made-in-german.info, made-in-german.online, made-in-germany-africa.com, made-in-germany-arab.com, 
-made-in-germany-arabia.com, made-in-germany-auto.com, made-in-germany-car.com, 
-made-in-germany-china.com, made-in-germany-first.com, made-in-germany-project.international, 
-made-in-germany-projekt.international, made-in-germany-russia.com, made-in-germany-turkey.com, 
-made-in-germany-vietnam.com, made-in-germany.academy, made-in-germany.ae, made-in-germany.ag, 
-made-in-germany.asia, made-in-germany.autos, made-in-germany.business, made-in-germany.co, 
-made-in-germany.co.in, made-in-germany.co.uk, made-in-germany.com.in, made-in-germany.directory, 
-made-in-germany.earth, made-in-germany.foundation, made-in-germany.global, made-in-germany.group, 
-made-in-germany.guide, made-in-germany.homes, made-in-germany.lat, made-in-germany.my, 
-made-in-germany.network, made-in-germany.nexus, made-in-germany.solutions, made-in-germany.support, 
-made-in-germany.tech, made-in-germany.trade, made-in-germany.uk, made-in-germany.vip, 
-made-in-germany.wiki, made-in-germany.world, made-in-india.info, made-in-russian.info, 
-made-in-turkey.info, made-in-vn.info, madeingermany.academy, madeingermany.ae, madeingermany.ag, 
-madeingermany.asia, madeingermany.autos, madeingermany.digital, madeingermany.directory, 
-madeingermany.earth, madeingermany.foundation, madeingermany.global, madeingermany.group, 
-madeingermany.guide, madeingermany.homes, madeingermany.in, madeingermany.international, 
-madeingermany.lat, madeingermany.network, madeingermany.nexus, madeingermany.solutions, 
-madeingermany.support, madeingermany.tech, madeingermany.uk, madeingermany.wiki, 
-madeingermanyarab.com, madeingermanyarabia.com, madeingermanyauto.com, madeingermanycar.com, 
-madeingermanychina.com, madeingermanyfirst.com, mig-administration.com, mig-b2b.com, 
-mig-b2b.info, mig-b2b.online, mig-for-future.com, mig-for-future.info, mig-for-future.online, 
-mig-global.ae, mig-international.academy, mig-international.ae, mig-international.ag, 
-mig-international.asia, mig-international.ch, mig-international.directory, mig-international.eu, 
-mig-international.foundation, mig-international.global, mig-international.in, mig-international.lat, 
-mig-international.org, mig-international.uk, mig-international.us, mig-iternational.directory, 
-mig-support.com, mig-support.info, mig-support.online, mig.auction, mig.autos, mig.boats, 
-mig.business.in, mig.cash, mig.charity, mig.contact, mig.deals, mig.direct, mig.directory, 
-mig.foundation, mig.global, mig.lat, mig.skin, migadministration.com, migadministration.info, 
-migadministration.online, migb2b.com, migb2b.info, migb2b.online, migforfuture.com, 
-migforfuture.info, migforfuture.online, migglobal.ae, miginternational.academy, 
-miginternational.asia, miginternational.directory, miginternational.eu, miginternational.foundation, 
-miginternational.global, miginternational.in, miginternational.lat, miginternational.uk, 
-miginternational.us
-```
+<div style="background: linear-gradient(135deg, #FFD700 0%, #000000 100%); padding: 15px; border-radius: 10px; color: #000000; margin: 10px 0;">
 
-</details>
+**Innovations-Fokus:**
+- germany-for-future.org
+- germany-go-next.com
+- mig-for-future.com
+- mig-b2b.com
+
+</div>
+
+### 📋 **Komplette Domain Liste (152 Domains)**
+
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #000000 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: #ffffff; font-family: monospace; line-height: 1.8;">
+
+germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforfuture.com, germanyforfuture.org, germanygonext.com, import-made-in-germany.com, m-i-g.international, made-in-african.info, made-in-america.info, made-in-asia.info, made-in-australia.info, made-in-cn.info, made-in-egypt.info, made-in-europeanunion.info, made-in-german.com, made-in-german.info, made-in-german.online, made-in-germany-africa.com, made-in-germany-arab.com, made-in-germany-arabia.com, made-in-germany-auto.com, made-in-germany-car.com, made-in-germany-china.com, made-in-germany-first.com, made-in-germany-project.international, made-in-germany-projekt.international, made-in-germany-russia.com, made-in-germany-turkey.com, made-in-germany-vietnam.com, made-in-germany.academy, made-in-germany.ae, made-in-germany.ag, made-in-germany.asia, made-in-germany.autos, made-in-germany.business, made-in-germany.co, made-in-germany.co.in, made-in-germany.co.uk, made-in-germany.com.in, made-in-germany.directory, made-in-germany.earth, made-in-germany.foundation, made-in-germany.global, made-in-germany.group, made-in-germany.guide, made-in-germany.homes, made-in-germany.lat, made-in-germany.my, made-in-germany.network, made-in-germany.nexus, made-in-germany.solutions, made-in-germany.support, made-in-germany.tech, made-in-germany.trade, made-in-germany.uk, made-in-germany.vip, made-in-germany.wiki, made-in-germany.world, made-in-india.info, made-in-russian.info, made-in-turkey.info, made-in-vn.info, madeingermany.academy, madeingermany.ae, madeingermany.ag, madeingermany.asia, madeingermany.autos, madeingermany.digital, madeingermany.directory, madeingermany.earth, madeingermany.foundation, madeingermany.global, madeingermany.group, madeingermany.guide, madeingermany.homes, madeingermany.in, madeingermany.international, madeingermany.lat, madeingermany.network, madeingermany.nexus, madeingermany.solutions, madeingermany.support, madeingermany.tech, madeingermany.uk, madeingermany.wiki, madeingermanyarab.com, madeingermanyarabia.com, madeingermanyauto.com, madeingermanycar.com, madeingermanychina.com, madeingermanyfirst.com, mig-administration.com, mig-b2b.com, mig-b2b.info, mig-b2b.online, mig-for-future.com, mig-for-future.info, mig-for-future.online, mig-global.ae, mig-international.academy, mig-international.ae, mig-international.ag, mig-international.asia, mig-international.ch, mig-international.directory, mig-international.eu, mig-international.foundation, mig-international.global, mig-international.in, mig-international.lat, mig-international.org, mig-international.uk, mig-international.us, mig-iternational.directory, mig-support.com, mig-support.info, mig-support.online, mig.auction, mig.autos, mig.boats, mig.business.in, mig.cash, mig.charity, mig.contact, mig.deals, mig.direct, mig.directory, mig.foundation, mig.global, mig.lat, mig.skin, migadministration.com, migadministration.info, migadministration.online, migb2b.com, migb2b.info, migb2b.online, migforfuture.com, migforfuture.info, migforfuture.online, migglobal.ae, miginternational.academy, miginternational.asia, miginternational.directory, miginternational.eu, miginternational.foundation, miginternational.global, miginternational.in, miginternational.lat, miginternational.uk, miginternational.us
+
+</div>
 
 ---
 
