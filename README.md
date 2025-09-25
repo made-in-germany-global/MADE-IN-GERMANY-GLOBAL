@@ -1,5 +1,5 @@
 
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen)
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen, Hansestadt Bremen)
 
 <div align="center">
 
@@ -340,7 +340,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 <br>
 
 
-# 🇪🇳 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen)
+# 🇪🇳 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen, Hanseatic City of Bremen)
 
 <div align="center">
 
