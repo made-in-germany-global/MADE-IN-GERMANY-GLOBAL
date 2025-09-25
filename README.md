@@ -1,5 +1,5 @@
 
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> (Andreas Thommen, Hansestadt Bremen)
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL - Initiator & Gründer <br> (Andreas Thommen, Hansestadt Bremen)
 
 <div align="center">
 
