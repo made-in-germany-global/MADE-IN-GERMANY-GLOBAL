@@ -1,5 +1,5 @@
 
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; (Andreas Thommen, Hansestadt Bremen)
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> (Andreas Thommen, Hansestadt Bremen)
 
 <div align="center">
 
