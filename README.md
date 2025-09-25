@@ -365,7 +365,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: white;">
 
-**Andreas Thommen** | *Born 1972 in Bremen, Germany* 🇩🇪
+**Andreas Thommen** | *Born in 1972 in the Hanseatic city of Bremen, Germany* 🇩🇪
 
 With years of professional experience in **Sales**, **Marketing**, and **Online Business**, I have developed the vision to digitally reposition and make visible the "Made in Germany" quality seal.
 
