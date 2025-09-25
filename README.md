@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Deutsche+Exportindustrie+stärken;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Strengthening+German+Export+Industry;Digital+Excellence)
 
 </div>
 
@@ -335,7 +335,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Strengthening+German+Export+Industry;Digital+Excellence+since+1972)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Strengthening+German+Export+Industry;Digital+Excellence)
 
 </div>
 
