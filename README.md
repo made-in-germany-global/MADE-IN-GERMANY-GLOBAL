@@ -10,283 +10,251 @@
 
 ![Made in Germany](https://img.shields.io/badge/MADE_IN-GERMANY-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiMwMDAwMDAiLz4KPHJlY3QgeT0iOCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNGRjAwMDAiLz4KPHJlY3QgeT0iMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo=&labelColor=FFD700&color=FF0000)
 ![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-152_DOMAINS-1e3a8a?style=for-the-badge&labelColor=0f172a)
-![Export Focus](https://img.shields.io/badge/EXPORT-INDUSTRY-dc2626?style=for-the-badge&labelColor=0f172a)
 
 </div>
-
----
-
-## 🚀 **VISION**
-
-> **Positioning German companies and manufacturers on the international stage with clear visibility for buyers and distributors worldwide.**
 
 ---
 
 <!-- Language Toggle Buttons -->
 <div align="center">
 
-[![English](https://img.shields.io/badge/🇬🇧_ENGLISH-ACTIVE-FFD700?style=for-the-badge&labelColor=000000)](#english-content)
-[![Deutsch](https://img.shields.io/badge/🇩🇪_DEUTSCH-KLICKEN-dc2626?style=for-the-badge&labelColor=000000)](#german-content)
+<a href="#english-version">
+  <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-CLICK_HERE-FFD700?style=for-the-badge&labelColor=000000" alt="English">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="#deutsche-version">
+  <img src="https://img.shields.io/badge/🇩🇪_DEUTSCH-HIER_KLICKEN-dc2626?style=for-the-badge&labelColor=000000" alt="Deutsch">
+</a>
 
 </div>
 
 ---
 
-<!-- English Content -->
-<div id="english-content">
+<h2 id="english-version" align="center">🇬🇧 ENGLISH VERSION</h2>
 
-## 👑 **FOUNDER & CEO**
-
+<!-- CEO Profile Section with HTML -->
 <div align="center">
 
-![CEO Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CEO%20%26%20Founder%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18)
+<h2>👑 FOUNDER & CEO</h2>
 
-</div>
-
-<div align="center">
-
-### 🌟 **LEADERSHIP PROFILE**
-
-</div>
-
-**👤 Full Name:** Andreas Thommen  
-**🎂 Born:** 1972  
-**🏛️ Base:** Hanseatic City of Bremen, Germany 🇩🇪  
-**🎯 Role:** Founder & Chief Executive Officer  
-
----
-
-### 🎯 **CORE EXPERTISE**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Andreas Thommen))
-    Sales & Marketing
-      Strategic Planning
-      Brand Development
-      Market Analysis
-    Digital Commerce
-      E-Commerce Platforms
-      Online Marketing
-      Digital Transformation
-    International Trade
-      Export Development
-      Global Partnerships
-      Market Entry
-    Innovation Leadership
-      Future Projects
-      Sustainability Focus
-      Technology Integration
-```
-
-</div>
-
-**🌍 International Trade Development**  
-*Specialist in connecting German manufacturers with global markets, facilitating cross-border business relationships and export growth strategies.*
-
-**📊 Sales & Marketing Mastery**  
-*Decades of experience in developing comprehensive sales strategies and marketing campaigns that drive measurable business growth.*
-
-**💻 Digital Commerce Pioneer**  
-*Leading the digital transformation of traditional German industries through innovative online platforms and e-commerce solutions.*
-
-**🚀 Export Industry Champion**  
-*Dedicated to strengthening Germany's position in global markets by making German products more accessible to international buyers.*
-
----
-
-### 💭 **LEADERSHIP PHILOSOPHY**
-
-<div align="center">
-
-![Quote](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24,12,6&height=120&section=header&text=Vision%20Statement&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=38)
-
-</div>
-
-> *"From this background, the vision emerged to digitally relaunch and strengthen the label Made in Germany. My ambition is to position German companies and manufacturers more strongly on an international scale – with clear visibility for buyers and distributors worldwide."*
-
-**— Andreas Thommen, Founder & CEO**
-
----
-
-### 🎖️ **MISSION & IMPACT**
-
-**🎯 Primary Mission**  
-*Strengthening German export industry through digital innovation and global market accessibility*
-
-**💡 Strategic Vision**  
-*Complete digital relaunch of the legendary "Made in Germany" label for the modern global marketplace*
-
-**🚀 Ultimate Goal**  
-*Creating seamless connections between international buyers and authentic German manufacturers*
-
-**⭐ Professional Foundation**  
-*Built on years of hands-on experience in sales, marketing, and the evolving digital commerce landscape*
-
----
-
-## 🌍 **GLOBAL INFRASTRUCTURE**
-
-### 🔗 **Development Platforms**
-- **Personal GitHub:** [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global)
-- **Organization:** [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international)
-
-### 🌐 **Digital Foundation**
-
-**Core Domains:**
-- `made-in-germany.global` • `made-in-germany.foundation` • `made-in-germany.uk`
-- `madeingermany.global` • `madeingermany.foundation` • `madeingermany.ag`
-
----
-
-## 🗺️ **REGIONAL PRESENCE**
-
-<div align="center">
-
-![Asia](https://img.shields.io/badge/🌏_ASIA-made--in--germany.asia-1e40af?style=for-the-badge&labelColor=0f172a)
-![Africa](https://img.shields.io/badge/🌍_AFRICA-made--in--germany--africa.com-dc2626?style=for-the-badge&labelColor=000000)
-![Latin America](https://img.shields.io/badge/🌎_LATIN_AMERICA-made--in--germany.lat-FFD700?style=for-the-badge&labelColor=000000)
-
-</div>
-
-**🌏 Asian Markets:** China, Vietnam, India  
-**🌍 African Markets:** Continental Africa focus  
-**🌎 Latin American Markets:** Regional expansion  
-**🕌 Arab Markets:** Arabia, Middle East  
-**🏔️ Eastern Markets:** Russia, Turkey, Eastern Europe
-
----
-
-## 📊 **PORTFOLIO SCALE**
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=made-in-germany-global&show_icons=true&theme=dark&title_color=FFD700&icon_color=dc2626&text_color=ffffff&bg_color=000000&border_color=FFD700)
-
-![Domains](https://img.shields.io/badge/TOTAL_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700)
-![Markets](https://img.shields.io/badge/KEY_MARKETS-15+-dc2626?style=for-the-badge&logo=trending-up&labelColor=000000)
-
-</div>
-
----
-
-## 📧 **CONNECT**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/✉️_CONTACT-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000)](mailto:andreas.thommen@made-in-germany.global)
-
-[![GitHub](https://img.shields.io/badge/🔗_FOLLOW-GitHub-1e40af?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/made-in-germany-global)
-
-</div>
-
-</div>
-
----
-
-<!-- German Content (Hidden by default, shown when German button is clicked) -->
-<div id="german-content" style="display: none;">
-
-## 👑 **GRÜNDER & CEO**
-
-<div align="center">
-
-![CEO Banner DE](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CEO%20%26%20Gründer%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CEO%20%26%20Founder%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18" alt="CEO Banner">
 
 </div>
 
 <div align="center">
 
-### 🌟 **FÜHRUNGSPROFIL**
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>🌟 PERSONAL PROFILE</h3>
+
+<p><strong>👤 Full Name:</strong><br>Andreas Thommen</p>
+<p><strong>🎂 Born:</strong><br>1972</p>
+<p><strong>🏛️ Location:</strong><br>Bremen, Germany 🇩🇪</p>
+<p><strong>🎯 Position:</strong><br>Founder & CEO</p>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🎯 CORE EXPERTISE</h3>
+
+<p><strong>🌍 International Trade</strong><br>
+<em>Global market expansion & partnerships</em></p>
+
+<p><strong>📊 Sales & Marketing</strong><br>
+<em>Strategic planning & brand development</em></p>
+
+<p><strong>💻 Digital Commerce</strong><br>
+<em>E-commerce platforms & transformation</em></p>
+
+<p><strong>🚀 Export Leadership</strong><br>
+<em>German industry globalization</em></p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-**👤 Vollständiger Name:** Andreas Thommen  
-**🎂 Geboren:** 1972  
-**🏛️ Standort:** Hansestadt Bremen, Deutschland 🇩🇪  
-**🎯 Position:** Gründer & Geschäftsführer  
-
----
-
-### 🎯 **KERNKOMPETENZ**
-
-**🌍 Internationale Handelsentwicklung**  
-*Spezialist für die Verbindung deutscher Hersteller mit globalen Märkten und die Förderung grenzüberschreitender Geschäftsbeziehungen.*
-
-**📊 Verkaufs- und Marketing-Expertise**  
-*Jahrzehntelange Erfahrung in der Entwicklung umfassender Verkaufsstrategien und Marketingkampagnen mit messbarem Geschäftswachstum.*
-
-**💻 Digital Commerce Pionier**  
-*Führend bei der digitalen Transformation traditioneller deutscher Industrien durch innovative Online-Plattformen.*
-
-**🚀 Export-Industrie-Champion**  
-*Engagiert für die Stärkung Deutschlands Position auf den Weltmärkten durch bessere Zugänglichkeit deutscher Produkte.*
-
----
-
-### 💭 **FÜHRUNGSPHILOSOPHIE**
+<!-- Expandable Mission Section -->
+<details>
+<summary><h3>💭 LEADERSHIP PHILOSOPHY & MISSION</h3></summary>
 
 <div align="center">
 
-![Quote DE](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24,12,6&height=120&section=header&text=Vision%20Statement&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=38)
+<blockquote>
+<p><em>"From this background, the vision emerged to digitally relaunch and strengthen the label Made in Germany. My ambition is to position German companies and manufacturers more strongly on an international scale – with clear visibility for buyers and distributors worldwide."</em></p>
+<p><strong>— Andreas Thommen, Founder & CEO</strong></p>
+</blockquote>
 
 </div>
 
-> *"Aus diesem Hintergrund entstand die Vision, das Label Made in Germany digital zu relaunchen und zu stärken. Mein Anspruch ist es, deutsche Unternehmen und Hersteller international stärker zu positionieren – mit klarer Sichtbarkeit für Einkäufer und Distributoren weltweit."*
+<h4>🎖️ KEY OBJECTIVES:</h4>
 
-**— Andreas Thommen, Gründer & CEO**
+<ul>
+<li><strong>🎯 Primary Mission:</strong> Strengthening German export industry through digital innovation</li>
+<li><strong>💡 Strategic Vision:</strong> Complete digital relaunch of "Made in Germany" label</li>
+<li><strong>🚀 Ultimate Goal:</strong> Seamless global buyer-manufacturer connections</li>
+<li><strong>⭐ Foundation:</strong> Decades of sales, marketing, and digital commerce experience</li>
+</ul>
+
+</details>
+
+<!-- Professional Background -->
+<div align="center">
+
+<h3>🏆 PROFESSIONAL BACKGROUND</h3>
+
+<table>
+<tr>
+<td align="center">
+
+<h4>📈 SALES EXPERTISE</h4>
+<p>Strategic sales planning<br>
+Customer relationship management<br>
+Revenue optimization</p>
+
+</td>
+<td align="center">
+
+<h4>🎨 MARKETING MASTERY</h4>
+<p>Brand development<br>
+Digital marketing campaigns<br>
+Market analysis & positioning</p>
+
+</td>
+<td align="center">
+
+<h4>🌐 GLOBAL REACH</h4>
+<p>International partnerships<br>
+Cross-border trade facilitation<br>
+Market entry strategies</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🎖️ **MISSION & EINFLUSS**
+<h2 id="deutsche-version" align="center">🇩🇪 DEUTSCHE VERSION</h2>
 
-**🎯 Hauptmission**  
-*Stärkung der deutschen Exportindustrie durch digitale Innovation und globale Marktzugänglichkeit*
+<!-- German CEO Profile -->
+<div align="center">
 
-**💡 Strategische Vision**  
-*Kompletter digitaler Relaunch des legendären "Made in Germany" Labels für den modernen globalen Markt*
+<h2>👑 GRÜNDER & GESCHÄFTSFÜHRER</h2>
 
-**🚀 Oberstes Ziel**  
-*Nahtlose Verbindungen zwischen internationalen Käufern und authentischen deutschen Herstellern schaffen*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Gründer%20%26%20Geschäftsführer%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18" alt="CEO Banner DE">
 
----
-
-## 🌍 **GLOBALE INFRASTRUKTUR**
-
-### 🔗 **Entwicklungsplattformen**
-- **Persönliches GitHub:** [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global)
-- **Organisation:** [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international)
-
-### 🌐 **Digitale Grundlage**
-
-**Kern-Domains:**
-- `made-in-germany.global` • `made-in-germany.foundation` • `made-in-germany.uk`
-- `madeingermany.global` • `madeingermany.foundation` • `madeingermany.ag`
-
----
-
-## 📊 **PORTFOLIO-UMFANG**
+</div>
 
 <div align="center">
 
-![Domains DE](https://img.shields.io/badge/GESAMT_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700)
-![Markets DE](https://img.shields.io/badge/SCHLÜSSELMÄRKTE-15+-dc2626?style=for-the-badge&logo=trending-up&labelColor=000000)
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>🌟 PERSÖNLICHES PROFIL</h3>
+
+<p><strong>👤 Vollständiger Name:</strong><br>Andreas Thommen</p>
+<p><strong>🎂 Geboren:</strong><br>1972</p>
+<p><strong>🏛️ Standort:</strong><br>Bremen, Deutschland 🇩🇪</p>
+<p><strong>🎯 Position:</strong><br>Gründer & Geschäftsführer</p>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🎯 KERNKOMPETENZEN</h3>
+
+<p><strong>🌍 Internationaler Handel</strong><br>
+<em>Globale Marktexpansion & Partnerschaften</em></p>
+
+<p><strong>📊 Vertrieb & Marketing</strong><br>
+<em>Strategische Planung & Markenentwicklung</em></p>
+
+<p><strong>💻 Digital Commerce</strong><br>
+<em>E-Commerce Plattformen & Transformation</em></p>
+
+<p><strong>🚀 Export-Führung</strong><br>
+<em>Deutsche Industrieglobalisierung</em></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- German Mission Section -->
+<details>
+<summary><h3>💭 FÜHRUNGSPHILOSOPHIE & MISSION</h3></summary>
+
+<div align="center">
+
+<blockquote>
+<p><em>"Aus diesem Hintergrund entstand die Vision, das Label Made in Germany digital zu relaunchen und zu stärken. Mein Anspruch ist es, deutsche Unternehmen und Hersteller international stärker zu positionieren – mit klarer Sichtbarkeit für Einkäufer und Distributoren weltweit."</em></p>
+<p><strong>— Andreas Thommen, Gründer & Geschäftsführer</strong></p>
+</blockquote>
+
+</div>
+
+<h4>🎖️ HAUPTZIELE:</h4>
+
+<ul>
+<li><strong>🎯 Hauptmission:</strong> Stärkung der deutschen Exportindustrie durch digitale Innovation</li>
+<li><strong>💡 Strategische Vision:</strong> Kompletter digitaler Relaunch des "Made in Germany" Labels</li>
+<li><strong>🚀 Oberstes Ziel:</strong> Nahtlose globale Käufer-Hersteller-Verbindungen</li>
+<li><strong>⭐ Fundament:</strong> Jahrzehntelange Erfahrung in Vertrieb, Marketing und Digital Commerce</li>
+</ul>
+
+</details>
+
+---
+
+## 🌍 GLOBAL INFRASTRUCTURE
+
+<div align="center">
+
+<h3>🔗 DEVELOPMENT PLATFORMS</h3>
+
+<a href="https://github.com/made-in-germany-global">
+  <img src="https://img.shields.io/badge/👤_PERSONAL-made--in--germany--global-1e40af?style=for-the-badge&logo=github&labelColor=0f172a" alt="Personal GitHub">
+</a>
+<br><br>
+<a href="https://github.com/made-in-germany-international">
+  <img src="https://img.shields.io/badge/🏢_ORGANIZATION-made--in--germany--international-FFD700?style=for-the-badge&logo=github&labelColor=000000" alt="Organization GitHub">
+</a>
+
+</div>
+
+<!-- Portfolio Stats -->
+<div align="center">
+
+<h3>📊 PORTFOLIO SCALE</h3>
+
+<img src="https://img.shields.io/badge/TOTAL_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700" alt="Total Domains">
+<img src="https://img.shields.io/badge/GLOBAL_MARKETS-15+-dc2626?style=for-the-badge&logo=trending-up&labelColor=000000" alt="Global Markets">
+<img src="https://img.shields.io/badge/REGIONAL_PRESENCE-6_CONTINENTS-1e40af?style=for-the-badge&logo=map&labelColor=0f172a" alt="Continental Reach">
 
 </div>
 
 ---
 
-## 📧 **KONTAKT**
-
+<!-- Contact Section -->
 <div align="center">
 
-[![Email DE](https://img.shields.io/badge/✉️_KONTAKT-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000)](mailto:andreas.thommen@made-in-germany.global)
+<h2>📧 CONTACT & CONNECT</h2>
 
-[![GitHub DE](https://img.shields.io/badge/🔗_FOLGEN-GitHub-1e40af?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/made-in-germany-global)
+<a href="mailto:andreas.thommen@made-in-germany.global">
+  <img src="https://img.shields.io/badge/✉️_EMAIL-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000" alt="Email">
+</a>
 
-</div>
+<br><br>
+
+<a href="https://github.com/made-in-germany-global">
+  <img src="https://img.shields.io/badge/🔗_FOLLOW-GitHub_Profile-1e40af?style=for-the-badge&logo=github&labelColor=0f172a" alt="GitHub Follow">
+</a>
 
 </div>
 
@@ -294,27 +262,12 @@ mindmap
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer Wave">
 
-**Made with 💙 in Bremen, Germany**
-
-*Connecting German Excellence with Global Markets*
+<p><strong>Made with 💙 in Bremen, Germany</strong></p>
+<p><em>Connecting German Excellence with Global Markets</em></p>
 
 </div>
 
-<!-- Instructions for Language Toggle -->
-<!-- 
-GITHUB README LANGUAGE TOGGLE INSTRUCTIONS:
-
-Since GitHub doesn't support JavaScript in README files, the language toggle works through anchor links and manual section management. 
-
-To implement a working language toggle:
-
-1. Use the current structure with anchor links (#english-content, #german-content)
-2. For a more advanced solution, consider:
-   - Creating separate README files (README.md, README-de.md)
-   - Using GitHub Actions to automatically generate language versions
-   - Implementing a simple redirect system
-
-The current version provides a foundation that users can click to navigate between sections, though it won't hide/show content automatically due to GitHub's limitations.
--->
+<!-- Hidden anchor for smooth scrolling -->
+<div id="top"></div>
