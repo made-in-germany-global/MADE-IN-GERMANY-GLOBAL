@@ -340,7 +340,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 <br>
 
 
-# 🇪🇳 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
+# 🇪🇳 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen)
 
 <div align="center">
 
