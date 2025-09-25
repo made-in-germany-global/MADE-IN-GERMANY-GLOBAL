@@ -1,5 +1,5 @@
 
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; (Andreas Thommen)
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL <br> &nbsp; &nbsp; &nbsp; &nbsp; (Andreas Thommen)
 
 <div align="center">
 
