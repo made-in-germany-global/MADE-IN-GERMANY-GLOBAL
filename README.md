@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Strengthening+German+Export+Industry;Digital+Excellence+Since+1972)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=800&height=70&lines=MADE+IN+GERMANY+GLOBAL;Deutsche+Exportindustrie+stärken;Digitale+Exzellenz+seit+1972)
 
 </div>
 
@@ -10,25 +10,24 @@
 
 <div align="center">
 
-### 🚀 **Digitally Repositioning the "Made in Germany" Quality Seal**
+### 🚀 **Das Gütesiegel "Made in Germany" digital neu positionieren**
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/made-in-germany-global)
-[![Organization](https://img.shields.io/badge/Organization-MIG%20International-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/made-in-germany-international)
-[![Email](https://img.shields.io/badge/Contact-andreas.trommen%40made--in--germany.global-gold?style=for-the-badge&logo=gmail&logoColor=black)](mailto:andreas.trommen@made-in-germany.global)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profil-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=DC143C)](https://github.com/made-in-germany-global)
+[![Organization](https://img.shields.io/badge/Organisation-MIG%20International-DC143C?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000)](https://github.com/made-in-germany-international)
 
 </div>
 
 ---
 
-## 🌟 **About Me**
+## 🌟 **Über mich**
 
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700;">
+<div style="background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: white;">
 
-**Andreas Thommen** | *Born 1972, Bremen, Germany* 🇩🇪
+**Andreas Thommen** | *Geboren 1972 in Bremen, Deutschland* 🇩🇪
 
-With years of professional experience in **Sales**, **Marketing**, and **Online Business**, I've developed a vision to digitally reposition and make visible the "Made in Germany" quality seal.
+Mit jahrelanger Berufserfahrung in **Vertrieb**, **Marketing** und **Online-Business** habe ich die Vision entwickelt, das Gütesiegel "Made in Germany" digital neu zu positionieren und sichtbar zu machen.
 
-🎯 **My Ambition**: Position German companies and manufacturers more strongly internationally – with clear visibility for buyers and distributors worldwide.
+🎯 **Meine Ambition**: Deutsche Unternehmen und Hersteller international stärker positionieren – mit klarer Sichtbarkeit für Einkäufer und Distributoren weltweit.
 
 </div>
 
@@ -40,16 +39,16 @@ With years of professional experience in **Sales**, **Marketing**, and **Online 
 <tr>
 <td width="50%">
 
-### 🌍 **Global Impact**
-- **Strengthen** German export industry
-- **Facilitate** international procurement
-- **Bridge** the gap between German quality and global demand
+### 🌍 **Globaler Einfluss**
+- **Stärkung** der deutschen Exportindustrie
+- **Erleichterung** für internationale Einkäufer
+- **Brücke** zwischen deutscher Qualität und globaler Nachfrage
 
 </td>
 <td width="50%">
 
-### 🔍 **The Challenge**
-Previously, it was difficult to search specifically for "Made in Germany" products because international platforms didn't reflect this specialization. We're changing that.
+### 🔍 **Die Herausforderung**
+Bisher war es schwierig, gezielt nach "Made in Germany"-Produkten zu suchen, weil internationale Plattformen diese Spezialisierung nicht abgebildet haben. Das ändern wir.
 
 </td>
 </tr>
@@ -57,28 +56,96 @@ Previously, it was difficult to search specifically for "Made in Germany" produc
 
 ---
 
-## 🏢 **GitHub Presence**
+## 🏢 **GitHub Präsenz**
 
 <div align="center">
 
-| Profile Type | Link | Description |
-|:------------:|:----:|:-----------:|
-| 👤 **Personal** | [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global) | Main profile |
-| 🏢 **Organization** | [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international) | Official organization |
+| Profil Typ | Link | Beschreibung |
+|:----------:|:----:|:------------:|
+| 👤 **Persönlich** | [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global) | Hauptprofil |
+| 🏢 **Organisation** | [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international) | Offizielle Organisation |
 
 </div>
 
 ---
 
-## 🌐 **Domain Portfolio - 152 Strategic Assets**
+## 🔑 **Schlüsselwörter - Made in Germany**
+
+<div align="center">
 
 <details>
-<summary><strong>🏆 Main Brands</strong> (Click to expand)</summary>
+<summary><strong>🇩🇪 50 Keywords auf Deutsch</strong> (Zum Erweitern klicken)</summary>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; padding: 20px;">
+
+1. Made in Germany Produkte
+2. Made in Germany Qualität
+3. Made in Germany Export
+4. Made in Germany Maschinenbau
+5. Made in Germany Automobilindustrie
+6. Made in Germany Medizintechnik
+7. Made in Germany Chemieindustrie
+8. Made in Germany Hightech
+9. Made in Germany Ingenieurskunst
+10. Made in Germany Innovationen
+11. Made in Germany B2B-Plattform
+12. Made in Germany Exportunternehmen
+13. Made in Germany Industriegüter
+14. Made in Germany Premiumprodukte
+15. Made in Germany Marken
+16. Made in Germany Lösungen
+17. Made in Germany Handelsplattform
+18. Made in Germany Qualitätsstandards
+19. Made in Germany Zukunftstechnologien
+20. Made in Germany Exportplattform
+21. Made in Germany Traditionsunternehmen
+22. Made in Germany Technologie
+23. Made in Germany Industrieprodukte
+24. Made in Germany Exportmärkte
+25. Made in Germany Wirtschaftskraft
+26. Made in Germany Automobilbau
+27. Made in Germany Elektrotechnik
+28. Made in Germany Bauindustrie
+29. Made in Germany Landwirtschaftstechnik
+30. Made in Germany Umwelttechnologien
+31. Made in Germany erneuerbare Energien
+32. Made in Germany Wasserstofftechnologie
+33. Made in Germany Digitalisierung
+34. Made in Germany Forschung
+35. Made in Germany Universitäten
+36. Made in Germany Handwerk
+37. Made in Germany Familienunternehmen
+38. Made in Germany Exporterfolge
+39. Made in Germany Präzisionstechnik
+40. Made in Germany Medizinforschung
+41. Made in Germany Software
+42. Made in Germany Cloudlösungen
+43. Made in Germany Plattformen
+44. Made in Germany Energieeffizienz
+45. Made in Germany Start-ups
+46. Made in Germany Mittelstand
+47. Made in Germany Großunternehmen
+48. Made in Germany Nachhaltigkeit
+49. Made in Germany Industrienetzwerk
+50. Made in Germany Weltmarktführer
+
+</div>
+
+</details>
+
+</div>
+
+---
+
+## 🌐 **Domain Portfolio - 152 Strategische Assets**
+
+<details>
+<summary><strong>🏆 Hauptmarken</strong> (Zum Erweitern klicken)</summary>
 
 ```yaml
-Primary Domains:
+Primäre Domains:
   - made-in-germany.global / madeingermany.global
-  - made-in-germany.uk / madeingermany.uk
+  - made-in-germany.uk / madeingermany.uk  
   - made-in-germany.ag / madeingermany.ag
   - made-in-germany.foundation / madeingermany.foundation
 ```
@@ -86,9 +153,9 @@ Primary Domains:
 </details>
 
 <details>
-<summary><strong>🌏 Core Markets by Region</strong> (Click to expand)</summary>
+<summary><strong>🌏 Kernmärkte nach Regionen</strong> (Zum Erweitern klicken)</summary>
 
-### 🇨🇳 **Asia & India**
+### 🇨🇳 **Asien & Indien**
 ```
 made-in-germany.asia
 made-in-germany.com.in
@@ -97,25 +164,25 @@ made-in-germany-vietnam.com
 madeingermany.in
 ```
 
-### 🌍 **Africa**
+### 🌍 **Afrika**
 ```
 made-in-germany-africa.com
 made-in-germany.afrika
 ```
 
-### 🌎 **Latin America**
+### 🌎 **Lateinamerika**
 ```
 made-in-germany.lat
 ```
 
-### 🕌 **Arab World**
+### 🕌 **Arabische Welt**
 ```
 made-in-germany-arabia.com
 made-in-germany-arab.com
 madeingermanyarabia.com
 ```
 
-### 🌐 **Eastern Europe & Eurasia**
+### 🌐 **Osteuropa & Eurasien**
 ```
 made-in-germany-russia.com
 made-in-germany-turkey.com
@@ -124,10 +191,10 @@ made-in-germany-turkey.com
 </details>
 
 <details>
-<summary><strong>🏗️ MIG Structure</strong> (Click to expand)</summary>
+<summary><strong>🏗️ MIG Struktur</strong> (Zum Erweitern klicken)</summary>
 
 ```yaml
-Infrastructure:
+Infrastruktur:
   - mig.global
   - mig.foundation
   - mig.directory
@@ -140,10 +207,10 @@ Infrastructure:
 </details>
 
 <details>
-<summary><strong>🔮 Future Themes & Extensions</strong> (Click to expand)</summary>
+<summary><strong>🔮 Zukunftsthemen & Erweiterungen</strong> (Zum Erweitern klicken)</summary>
 
 ```yaml
-Innovation Focus:
+Innovations-Fokus:
   - germany-for-future.org
   - germany-go-next.com
   - mig-for-future.com
@@ -153,7 +220,7 @@ Innovation Focus:
 </details>
 
 <details>
-<summary><strong>📋 Complete Domain List (152 Domains)</strong> (Click to expand)</summary>
+<summary><strong>📋 Komplette Domain Liste (152 Domains)</strong> (Zum Erweitern klicken)</summary>
 
 ```
 germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforfuture.com, 
@@ -199,15 +266,15 @@ miginternational.us
 
 ---
 
-## 🎖️ **Our Impact**
+## 🎖️ **Unsere Wirkung**
 
 <div align="center">
 
-| 🌍 **Global Reach** | 🏭 **Industries Served** | 🔗 **Partnerships** | 📈 **Growth** |
-|:-------------------:|:------------------------:|:-------------------:|:-------------:|
-| 152 Domains | Manufacturing | B2B Platforms | Exponential |
-| 5+ Continents | Automotive | Export Agencies | Strategic |
-| 15+ Languages | Technology | Trade Organizations | Sustainable |
+| 🌍 **Globale Reichweite** | 🏭 **Bediente Branchen** | 🔗 **Partnerschaften** | 📈 **Wachstum** |
+|:-------------------------:|:------------------------:|:---------------------:|:---------------:|
+| 152 Domains | Maschinenbau | B2B Plattformen | Exponentiell |
+| 5+ Kontinente | Automobilindustrie | Export-Agenturen | Strategisch |
+| 15+ Sprachen | Technologie | Handelsorganisationen | Nachhaltig |
 
 </div>
 
@@ -217,18 +284,21 @@ miginternational.us
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD700&labelColor=DC143C)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=DC143C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FFD700)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=DC143C)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=FFD700)
 
 </div>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Statistiken**
 
 <div align="center">
 
@@ -236,12 +306,12 @@ miginternational.us
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=made-in-germany-global&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=ff0000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=made-in-germany-global&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=DC143C&border_color=FFD700)
 
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=made-in-germany-global&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=made-in-germany-global&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=ffffff&border_color=DC143C)
 
 </td>
 </tr>
@@ -251,14 +321,22 @@ miginternational.us
 
 ---
 
-## 🤝 **Connect With Me**
+## 🌟 **Aktivitäts-Streaks**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreas-thommen)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/madeingermanyglobal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreas.trommen@made-in-germany.global)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://made-in-germany.global)
+![GitHub Streak](https://streak-stats.demolab.com?user=made-in-germany-global&theme=dark&background=000000&border=FFD700&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=DC143C&sideLabels=ffffff&dates=ffffff)
+
+</div>
+
+---
+
+## 🤝 **Kontakt**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-andreas.trommen%40made--in--germany.global-FFD700?style=for-the-badge&logoColor=black&labelColor=DC143C)](mailto:andreas.trommen@made-in-germany.global)
+[![Website](https://img.shields.io/badge/🌐_Website-made--in--germany.global-000000?style=for-the-badge&logoColor=FFD700&labelColor=DC143C)](https://made-in-germany.global)
 
 </div>
 
@@ -266,9 +344,9 @@ miginternational.us
 
 <div align="center">
 
-### 🌟 **"Strengthening German Excellence Worldwide"** 🌟
+### 🌟 **"Deutsche Exzellenz weltweit stärken"** 🌟
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=MADE%20IN%20GERMANY%20GLOBAL&fontSize=20&fontColor=FFD700&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,20&height=120&section=footer&text=MADE%20IN%20GERMANY%20GLOBAL&fontSize=25&fontColor=FFD700&animation=twinkling&fontAlignY=65)
 
 </div>
 
@@ -276,8 +354,22 @@ miginternational.us
 
 <div align="center">
 
-**🔧 Built with passion in Germany 🇩🇪 | Connecting global markets since 1972**
+**🔧 Mit Leidenschaft in Deutschland entwickelt 🇩🇪 | Verbinden globaler Märkte seit 1972**
 
-![Profile Views](https://komarev.com/ghpvc/?username=made-in-germany-global&color=gold&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=made-in-germany-global&color=gold&style=for-the-badge&label=Profil+Aufrufe)
+![GitHub followers](https://img.shields.io/github/followers/made-in-germany-global?style=for-the-badge&color=DC143C&labelColor=000000&logoColor=FFD700)
+![GitHub stars](https://img.shields.io/github/stars/made-in-germany-global?style=for-the-badge&color=FFD700&labelColor=DC143C)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **B2B Excellence Badge**
+
+![B2B Badge](https://img.shields.io/badge/🏢_B2B-Excellence-FFD700?style=for-the-badge&logo=handshake&logoColor=000000&labelColor=DC143C)
+![Export Badge](https://img.shields.io/badge/🌍_Export-Champion-DC143C?style=for-the-badge&logo=globe&logoColor=FFD700&labelColor=000000)
+![Quality Badge](https://img.shields.io/badge/⭐_Qualität-Made%20in%20Germany-000000?style=for-the-badge&logo=star&logoColor=FFD700&labelColor=DC143C)
 
 </div>
