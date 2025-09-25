@@ -20,24 +20,77 @@ We are digitally relaunching the legendary **"Made in Germany"** label, making i
 
 ---
 
-## 👨‍💼 **ABOUT ANDREAS THOMMEN**
+## 👑 **FOUNDER & CEO**
 
-```yaml
-name: "Andreas Thommen"
-born: 1972
-location: "Hanseatic City of Bremen, Germany 🏙️"
-expertise:
-  - Sales & Marketing Strategy
-  - Digital Commerce & Online Platforms
-  - International Trade Development
-  - Export Industry Strengthening
-mission: "Strengthening German export industry globally"
-vision: "Digital relaunch of Made in Germany label"
-background: "Many years of professional experience in sales, marketing, and online sector"
-goal: "Facilitating international buyers to find German products faster and more directly"
-```
+<div align="center">
 
-**Professional Background:** Decades of experience in sales, marketing, and digital commerce, culminating in the vision to digitally strengthen Germany's international presence and expand advantages for German export industry.
+### ![CEO](https://img.shields.io/badge/🔥-ANDREAS_THOMMEN-FFD700?style=for-the-badge&labelColor=000000)
+### ![Title](https://img.shields.io/badge/CEO_&_FOUNDER-MADE_IN_GERMANY_GLOBAL-dc2626?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+<div align="center">
+
+| ![Profile](https://img.shields.io/badge/PROFILE-1e40af?style=for-the-badge&labelColor=0f172a) | ![Details](https://img.shields.io/badge/DETAILS-FFD700?style=for-the-badge&labelColor=000000) |
+|---|---|
+| **👤 Name** | Andreas Thommen |
+| **🎂 Born** | 1972 |
+| **🏛️ Location** | Hanseatic City of Bremen, Germany 🇩🇪 |
+| **🎯 Position** | Founder & CEO |
+
+</div>
+
+---
+
+<div align="center">
+
+### ![Expertise](https://img.shields.io/badge/🎯-CORE_EXPERTISE-dc2626?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/📊-SALES_&_MARKETING-1e40af?style=for-the-badge&labelColor=0f172a" alt="Sales & Marketing"/><br><strong>Sales & Marketing Strategy</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/💻-DIGITAL_COMMERCE-FFD700?style=for-the-badge&labelColor=000000" alt="Digital Commerce"/><br><strong>Digital Commerce & Online Platforms</strong></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🌍-INTERNATIONAL_TRADE-dc2626?style=for-the-badge&labelColor=000000" alt="International Trade"/><br><strong>International Trade Development</strong></td>
+<td align="center"><img src="https://img.shields.io/badge/🚀-EXPORT_INDUSTRY-1e40af?style=for-the-badge&labelColor=0f172a" alt="Export Industry"/><br><strong>Export Industry Strengthening</strong></td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ![Vision Mission](https://img.shields.io/badge/🌟-VISION_&_MISSION-FFD700?style=for-the-badge&labelColor=000000)
+
+</div>
+
+<div align="center">
+
+| ![Category](https://img.shields.io/badge/CATEGORY-000000?style=flat-square&labelColor=FFD700) | ![Statement](https://img.shields.io/badge/STATEMENT-FFD700?style=flat-square&labelColor=000000) |
+|---|---|
+| **🎯 Mission** | *"Strengthening German export industry globally"* |
+| **💡 Vision** | *"Digital relaunch of Made in Germany label"* |
+| **🚀 Goal** | *"Facilitating international buyers to find German products faster and more directly"* |
+| **⭐ Background** | *"Many years of professional experience in sales, marketing, and online sector"* |
+
+</div>
+
+---
+
+<div align="center">
+
+### ![Leadership Quote](https://img.shields.io/badge/💭-LEADERSHIP_PHILOSOPHY-dc2626?style=for-the-badge&labelColor=000000)
+
+> ***"From this background, the vision emerged to digitally relaunch and strengthen the label Made in Germany. My ambition is to position German companies and manufacturers more strongly on an international scale – with clear visibility for buyers and distributors worldwide."***
+
+**— Andreas Thommen, Founder & CEO**
+
+</div>
 
 ---
 
