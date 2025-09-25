@@ -1,12 +1,16 @@
 # 🇩🇪 MADE IN GERMANY GLOBAL
-### *Digitally Relaunching German Excellence Worldwide*
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Digitally+Relaunching+German+Excellence;Connecting+Global+Markets;Made+in+Germany+Worldwide;Premium+Quality+Since+1872&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&background=000000)
+
+</div>
 
 <div align="center">
 
 ![Made in Germany](https://img.shields.io/badge/MADE_IN-GERMANY-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiMwMDAwMDAiLz4KPHJlY3QgeT0iOCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjgiIGZpbGw9IiNGRjAwMDAiLz4KPHJlY3QgeT0iMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo=&labelColor=FFD700&color=FF0000)
 ![Global Reach](https://img.shields.io/badge/GLOBAL_REACH-152_DOMAINS-1e3a8a?style=for-the-badge&labelColor=0f172a)
 ![Export Focus](https://img.shields.io/badge/EXPORT-INDUSTRY-dc2626?style=for-the-badge&labelColor=0f172a)
-![Bremen](https://img.shields.io/badge/BREMEN-GERMANY-FFD700?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -16,287 +20,273 @@
 
 > **Positioning German companies and manufacturers on the international stage with clear visibility for buyers and distributors worldwide.**
 
-We are digitally relaunching the legendary **"Made in Germany"** label, making it easier than ever for international buyers to discover authentic German products and services.
+---
+
+<!-- Language Toggle Buttons -->
+<div align="center">
+
+[![English](https://img.shields.io/badge/🇬🇧_ENGLISH-ACTIVE-FFD700?style=for-the-badge&labelColor=000000)](#english-content)
+[![Deutsch](https://img.shields.io/badge/🇩🇪_DEUTSCH-KLICKEN-dc2626?style=for-the-badge&labelColor=000000)](#german-content)
+
+</div>
 
 ---
+
+<!-- English Content -->
+<div id="english-content">
 
 ## 👑 **FOUNDER & CEO**
 
 <div align="center">
 
-### ![CEO](https://img.shields.io/badge/🔥-ANDREAS_THOMMEN-FFD700?style=for-the-badge&labelColor=000000)
-### ![Title](https://img.shields.io/badge/CEO_&_FOUNDER-MADE_IN_GERMANY_GLOBAL-dc2626?style=for-the-badge&labelColor=000000)
+![CEO Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CEO%20%26%20Founder%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18)
 
 </div>
+
+<div align="center">
+
+### 🌟 **LEADERSHIP PROFILE**
+
+</div>
+
+**👤 Full Name:** Andreas Thommen  
+**🎂 Born:** 1972  
+**🏛️ Base:** Hanseatic City of Bremen, Germany 🇩🇪  
+**🎯 Role:** Founder & Chief Executive Officer  
 
 ---
 
+### 🎯 **CORE EXPERTISE**
+
 <div align="center">
 
-| ![Profile](https://img.shields.io/badge/PROFILE-1e40af?style=for-the-badge&labelColor=0f172a) | ![Details](https://img.shields.io/badge/DETAILS-FFD700?style=for-the-badge&labelColor=000000) |
-|---|---|
-| **👤 Name** | Andreas Thommen |
-| **🎂 Born** | 1972 |
-| **🏛️ Location** | Hanseatic City of Bremen, Germany 🇩🇪 |
-| **🎯 Position** | Founder & CEO |
+```mermaid
+mindmap
+  root((Andreas Thommen))
+    Sales & Marketing
+      Strategic Planning
+      Brand Development
+      Market Analysis
+    Digital Commerce
+      E-Commerce Platforms
+      Online Marketing
+      Digital Transformation
+    International Trade
+      Export Development
+      Global Partnerships
+      Market Entry
+    Innovation Leadership
+      Future Projects
+      Sustainability Focus
+      Technology Integration
+```
 
 </div>
+
+**🌍 International Trade Development**  
+*Specialist in connecting German manufacturers with global markets, facilitating cross-border business relationships and export growth strategies.*
+
+**📊 Sales & Marketing Mastery**  
+*Decades of experience in developing comprehensive sales strategies and marketing campaigns that drive measurable business growth.*
+
+**💻 Digital Commerce Pioneer**  
+*Leading the digital transformation of traditional German industries through innovative online platforms and e-commerce solutions.*
+
+**🚀 Export Industry Champion**  
+*Dedicated to strengthening Germany's position in global markets by making German products more accessible to international buyers.*
 
 ---
 
+### 💭 **LEADERSHIP PHILOSOPHY**
+
 <div align="center">
 
-### ![Expertise](https://img.shields.io/badge/🎯-CORE_EXPERTISE-dc2626?style=for-the-badge&labelColor=000000)
+![Quote](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24,12,6&height=120&section=header&text=Vision%20Statement&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=38)
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/📊-SALES_&_MARKETING-1e40af?style=for-the-badge&labelColor=0f172a" alt="Sales & Marketing"/><br><strong>Sales & Marketing Strategy</strong></td>
-<td align="center"><img src="https://img.shields.io/badge/💻-DIGITAL_COMMERCE-FFD700?style=for-the-badge&labelColor=000000" alt="Digital Commerce"/><br><strong>Digital Commerce & Online Platforms</strong></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🌍-INTERNATIONAL_TRADE-dc2626?style=for-the-badge&labelColor=000000" alt="International Trade"/><br><strong>International Trade Development</strong></td>
-<td align="center"><img src="https://img.shields.io/badge/🚀-EXPORT_INDUSTRY-1e40af?style=for-the-badge&labelColor=0f172a" alt="Export Industry"/><br><strong>Export Industry Strengthening</strong></td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### ![Vision Mission](https://img.shields.io/badge/🌟-VISION_&_MISSION-FFD700?style=for-the-badge&labelColor=000000)
-
-</div>
-
-<div align="center">
-
-| ![Category](https://img.shields.io/badge/CATEGORY-000000?style=flat-square&labelColor=FFD700) | ![Statement](https://img.shields.io/badge/STATEMENT-FFD700?style=flat-square&labelColor=000000) |
-|---|---|
-| **🎯 Mission** | *"Strengthening German export industry globally"* |
-| **💡 Vision** | *"Digital relaunch of Made in Germany label"* |
-| **🚀 Goal** | *"Facilitating international buyers to find German products faster and more directly"* |
-| **⭐ Background** | *"Many years of professional experience in sales, marketing, and online sector"* |
-
-</div>
-
----
-
-<div align="center">
-
-### ![Leadership Quote](https://img.shields.io/badge/💭-LEADERSHIP_PHILOSOPHY-dc2626?style=for-the-badge&labelColor=000000)
-
-> ***"From this background, the vision emerged to digitally relaunch and strengthen the label Made in Germany. My ambition is to position German companies and manufacturers more strongly on an international scale – with clear visibility for buyers and distributors worldwide."***
+> *"From this background, the vision emerged to digitally relaunch and strengthen the label Made in Germany. My ambition is to position German companies and manufacturers more strongly on an international scale – with clear visibility for buyers and distributors worldwide."*
 
 **— Andreas Thommen, Founder & CEO**
 
-</div>
+---
+
+### 🎖️ **MISSION & IMPACT**
+
+**🎯 Primary Mission**  
+*Strengthening German export industry through digital innovation and global market accessibility*
+
+**💡 Strategic Vision**  
+*Complete digital relaunch of the legendary "Made in Germany" label for the modern global marketplace*
+
+**🚀 Ultimate Goal**  
+*Creating seamless connections between international buyers and authentic German manufacturers*
+
+**⭐ Professional Foundation**  
+*Built on years of hands-on experience in sales, marketing, and the evolving digital commerce landscape*
 
 ---
 
 ## 🌍 **GLOBAL INFRASTRUCTURE**
 
-### 🏢 **GitHub Organizations**
-- **Personal Profile:** [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global)
+### 🔗 **Development Platforms**
+- **Personal GitHub:** [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global)
 - **Organization:** [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international)
 
-### 🌐 **Core Digital Assets**
+### 🌐 **Digital Foundation**
+
+**Core Domains:**
+- `made-in-germany.global` • `made-in-germany.foundation` • `made-in-germany.uk`
+- `madeingermany.global` • `madeingermany.foundation` • `madeingermany.ag`
+
+---
+
+## 🗺️ **REGIONAL PRESENCE**
 
 <div align="center">
 
-| ![Foundation](https://img.shields.io/badge/🏛️-FOUNDATION-1e40af?style=for-the-badge&labelColor=0f172a) | ![Global](https://img.shields.io/badge/🌍-GLOBAL-dc2626?style=for-the-badge&labelColor=000000) | ![UK](https://img.shields.io/badge/🇬🇧-UK-FFD700?style=for-the-badge&labelColor=000000) | ![Corporate](https://img.shields.io/badge/🏢-CORPORATE-1e40af?style=for-the-badge&labelColor=0f172a) |
-|---|---|---|---|
-| `made-in-germany.foundation` | `made-in-germany.global` | `made-in-germany.uk` | `made-in-germany.ag` |
-| `madeingermany.foundation` | `madeingermany.global` | `madeingermany.uk` | `madeingermany.ag` |
+![Asia](https://img.shields.io/badge/🌏_ASIA-made--in--germany.asia-1e40af?style=for-the-badge&labelColor=0f172a)
+![Africa](https://img.shields.io/badge/🌍_AFRICA-made--in--germany--africa.com-dc2626?style=for-the-badge&labelColor=000000)
+![Latin America](https://img.shields.io/badge/🌎_LATIN_AMERICA-made--in--germany.lat-FFD700?style=for-the-badge&labelColor=000000)
+
+</div>
+
+**🌏 Asian Markets:** China, Vietnam, India  
+**🌍 African Markets:** Continental Africa focus  
+**🌎 Latin American Markets:** Regional expansion  
+**🕌 Arab Markets:** Arabia, Middle East  
+**🏔️ Eastern Markets:** Russia, Turkey, Eastern Europe
+
+---
+
+## 📊 **PORTFOLIO SCALE**
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=made-in-germany-global&show_icons=true&theme=dark&title_color=FFD700&icon_color=dc2626&text_color=ffffff&bg_color=000000&border_color=FFD700)
+
+![Domains](https://img.shields.io/badge/TOTAL_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700)
+![Markets](https://img.shields.io/badge/KEY_MARKETS-15+-dc2626?style=for-the-badge&logo=trending-up&labelColor=000000)
 
 </div>
 
 ---
 
-## 🗺️ **REGIONAL MARKET PRESENCE**
+## 📧 **CONNECT**
 
 <div align="center">
 
-### ![Asia](https://img.shields.io/badge/🌏-ASIA_&_INDIA-1e40af?style=for-the-badge&labelColor=0f172a)
-```
-made-in-germany.asia • made-in-germany.com.in • made-in-germany-china.com
-made-in-germany-vietnam.com • madeingermany.in • madeingermanychina.com
-```
+[![Email](https://img.shields.io/badge/✉️_CONTACT-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000)](mailto:andreas.thommen@made-in-germany.global)
 
-### ![Africa](https://img.shields.io/badge/🌍-AFRICA-dc2626?style=for-the-badge&labelColor=000000)
-```
-made-in-germany-africa.com • made-in-germany.afrika
-```
+[![GitHub](https://img.shields.io/badge/🔗_FOLLOW-GitHub-1e40af?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/made-in-germany-global)
 
-### ![Latin America](https://img.shields.io/badge/🌎-LATIN_AMERICA-FFD700?style=for-the-badge&labelColor=000000)
-```
-made-in-germany.lat • madeingermany.lat
-```
-
-### ![Arab World](https://img.shields.io/badge/🕌-ARAB_WORLD-1e40af?style=for-the-badge&labelColor=0f172a)
-```
-made-in-germany-arabia.com • made-in-germany-arab.com • madeingermanyarab.com
-madeingermanyarabia.com
-```
-
-### ![Eastern Europe](https://img.shields.io/badge/🏔️-EASTERN_EUROPE_&_EURASIA-dc2626?style=for-the-badge&labelColor=000000)
-```
-made-in-germany-russia.com • made-in-germany-turkey.com
-```
+</div>
 
 </div>
 
 ---
 
-## ⚡ **MIG ECOSYSTEM**
+<!-- German Content (Hidden by default, shown when German button is clicked) -->
+<div id="german-content" style="display: none;">
+
+## 👑 **GRÜNDER & CEO**
 
 <div align="center">
 
-![MIG Core](https://img.shields.io/badge/MIG-CORE_STRUCTURE-1e40af?style=for-the-badge&labelColor=0f172a)
+![CEO Banner DE](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANDREAS%20THOMMEN&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CEO%20%26%20Gründer%20•%20Made%20in%20Germany%20Global&descAlignY=55&descSize=18)
 
 </div>
 
-```
-🔹 mig.global              🔹 mig.foundation           🔹 mig.directory
-🔹 mig.charity             🔹 mig.support              🔹 mig-international.global
-🔹 mig-international.foundation                        🔹 mig.auction
-🔹 mig.autos               🔹 mig.boats                🔹 mig.business.in
-🔹 mig.cash                🔹 mig.contact              🔹 mig.deals
-🔹 mig.direct              🔹 mig.lat                  🔹 mig.skin
-```
+<div align="center">
 
-**MIG International Extensions:**
-```
-mig-international.academy • mig-international.ae • mig-international.ag
-mig-international.asia • mig-international.ch • mig-international.directory
-mig-international.eu • mig-international.in • mig-international.lat
-mig-international.org • mig-international.uk • mig-international.us
-```
+### 🌟 **FÜHRUNGSPROFIL**
+
+</div>
+
+**👤 Vollständiger Name:** Andreas Thommen  
+**🎂 Geboren:** 1972  
+**🏛️ Standort:** Hansestadt Bremen, Deutschland 🇩🇪  
+**🎯 Position:** Gründer & Geschäftsführer  
 
 ---
 
-## 🚀 **FUTURE INITIATIVES & TOPICS**
+### 🎯 **KERNKOMPETENZ**
+
+**🌍 Internationale Handelsentwicklung**  
+*Spezialist für die Verbindung deutscher Hersteller mit globalen Märkten und die Förderung grenzüberschreitender Geschäftsbeziehungen.*
+
+**📊 Verkaufs- und Marketing-Expertise**  
+*Jahrzehntelange Erfahrung in der Entwicklung umfassender Verkaufsstrategien und Marketingkampagnen mit messbarem Geschäftswachstum.*
+
+**💻 Digital Commerce Pionier**  
+*Führend bei der digitalen Transformation traditioneller deutscher Industrien durch innovative Online-Plattformen.*
+
+**🚀 Export-Industrie-Champion**  
+*Engagiert für die Stärkung Deutschlands Position auf den Weltmärkten durch bessere Zugänglichkeit deutscher Produkte.*
+
+---
+
+### 💭 **FÜHRUNGSPHILOSOPHIE**
 
 <div align="center">
 
-| ![Project](https://img.shields.io/badge/PROJECT-dc2626?style=flat-square&labelColor=000000) | ![Domain](https://img.shields.io/badge/DOMAIN-FFD700?style=flat-square&labelColor=000000) | ![Focus](https://img.shields.io/badge/FOCUS-1e40af?style=flat-square&labelColor=0f172a) |
-|---------|--------|-------|
-| **Germany for Future** | `germany-for-future.org` • `germany-for-future.com` | Sustainability & Innovation |
-| **Germany Go Next** | `germany-go-next.com` • `germanygonext.com` | Next Generation Development |
-| **MIG B2B Solutions** | `mig-b2b.com` • `mig-b2b.info` • `mig-b2b.online` | Business-to-Business |
-| **MIG Future Projects** | `mig-for-future.com` • `mig-for-future.info` | Forward-Thinking Initiatives |
+![Quote DE](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=24,12,6&height=120&section=header&text=Vision%20Statement&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=38)
+
+</div>
+
+> *"Aus diesem Hintergrund entstand die Vision, das Label Made in Germany digital zu relaunchen und zu stärken. Mein Anspruch ist es, deutsche Unternehmen und Hersteller international stärker zu positionieren – mit klarer Sichtbarkeit für Einkäufer und Distributoren weltweit."*
+
+**— Andreas Thommen, Gründer & CEO**
+
+---
+
+### 🎖️ **MISSION & EINFLUSS**
+
+**🎯 Hauptmission**  
+*Stärkung der deutschen Exportindustrie durch digitale Innovation und globale Marktzugänglichkeit*
+
+**💡 Strategische Vision**  
+*Kompletter digitaler Relaunch des legendären "Made in Germany" Labels für den modernen globalen Markt*
+
+**🚀 Oberstes Ziel**  
+*Nahtlose Verbindungen zwischen internationalen Käufern und authentischen deutschen Herstellern schaffen*
+
+---
+
+## 🌍 **GLOBALE INFRASTRUKTUR**
+
+### 🔗 **Entwicklungsplattformen**
+- **Persönliches GitHub:** [`github.com/made-in-germany-global`](https://github.com/made-in-germany-global)
+- **Organisation:** [`github.com/made-in-germany-international`](https://github.com/made-in-germany-international)
+
+### 🌐 **Digitale Grundlage**
+
+**Kern-Domains:**
+- `made-in-germany.global` • `made-in-germany.foundation` • `made-in-germany.uk`
+- `madeingermany.global` • `madeingermany.foundation` • `madeingermany.ag`
+
+---
+
+## 📊 **PORTFOLIO-UMFANG**
+
+<div align="center">
+
+![Domains DE](https://img.shields.io/badge/GESAMT_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700)
+![Markets DE](https://img.shields.io/badge/SCHLÜSSELMÄRKTE-15+-dc2626?style=for-the-badge&logo=trending-up&labelColor=000000)
 
 </div>
 
 ---
 
-## 📊 **COMPLETE DOMAIN PORTFOLIO - 152 DOMAINS**
+## 📧 **KONTAKT**
 
 <div align="center">
 
-![Total Domains](https://img.shields.io/badge/TOTAL_DOMAINS-152-000000?style=for-the-badge&logo=globe&labelColor=FFD700)
-![Regions](https://img.shields.io/badge/REGIONS_COVERED-6+-dc2626?style=for-the-badge&logo=map&labelColor=000000)
-![Markets](https://img.shields.io/badge/KEY_MARKETS-15+-1e40af?style=for-the-badge&logo=trending-up&labelColor=0f172a)
+[![Email DE](https://img.shields.io/badge/✉️_KONTAKT-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000)](mailto:andreas.thommen@made-in-germany.global)
+
+[![GitHub DE](https://img.shields.io/badge/🔗_FOLGEN-GitHub-1e40af?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/made-in-germany-global)
 
 </div>
-
-### 🔗 **FULL DOMAIN LIST**
-
-<details>
-<summary><strong>📋 Click to expand complete domain portfolio (152 domains)</strong></summary>
-
-```
-germany-for-future.com, germany-for-future.org, germany-go-next.com, 
-germanyforfuture.com, germanyforfuture.org, germanygonext.com, 
-import-made-in-germany.com, m-i-g.international, made-in-african.info, 
-made-in-america.info, made-in-asia.info, made-in-australia.info, 
-made-in-cn.info, made-in-egypt.info, made-in-europeanunion.info, 
-made-in-german.com, made-in-german.info, made-in-german.online, 
-made-in-germany-africa.com, made-in-germany-arab.com, 
-made-in-germany-arabia.com, made-in-germany-auto.com, 
-made-in-germany-car.com, made-in-germany-china.com, 
-made-in-germany-first.com, made-in-germany-project.international, 
-made-in-germany-projekt.international, made-in-germany-russia.com, 
-made-in-germany-turkey.com, made-in-germany-vietnam.com, 
-made-in-germany.academy, made-in-germany.ae, made-in-germany.ag, 
-made-in-germany.asia, made-in-germany.autos, made-in-germany.business, 
-made-in-germany.co, made-in-germany.co.in, made-in-germany.co.uk, 
-made-in-germany.com.in, made-in-germany.directory, made-in-germany.earth, 
-made-in-germany.foundation, made-in-germany.global, made-in-germany.group, 
-made-in-germany.guide, made-in-germany.homes, made-in-germany.lat, 
-made-in-germany.my, made-in-germany.network, made-in-germany.nexus, 
-made-in-germany.solutions, made-in-germany.support, made-in-germany.tech, 
-made-in-germany.trade, made-in-germany.uk, made-in-germany.vip, 
-made-in-germany.wiki, made-in-germany.world, made-in-india.info, 
-made-in-russian.info, made-in-turkey.info, made-in-vn.info, 
-madeingermany.academy, madeingermany.ae, madeingermany.ag, 
-madeingermany.asia, madeingermany.autos, madeingermany.digital, 
-madeingermany.directory, madeingermany.earth, madeingermany.foundation, 
-madeingermany.global, madeingermany.group, madeingermany.guide, 
-madeingermany.homes, madeingermany.in, madeingermany.international, 
-madeingermany.lat, madeingermany.network, madeingermany.nexus, 
-madeingermany.solutions, madeingermany.support, madeingermany.tech, 
-madeingermany.uk, madeingermany.wiki, madeingermanyarab.com, 
-madeingermanyarabia.com, madeingermanyauto.com, madeingermanycar.com, 
-madeingermanychina.com, madeingermanyfirst.com, mig-administration.com, 
-mig-b2b.com, mig-b2b.info, mig-b2b.online, mig-for-future.com, 
-mig-for-future.info, mig-for-future.online, mig-global.ae, 
-mig-international.academy, mig-international.ae, mig-international.ag, 
-mig-international.asia, mig-international.ch, mig-international.directory, 
-mig-international.eu, mig-international.foundation, mig-international.global, 
-mig-international.in, mig-international.lat, mig-international.org, 
-mig-international.uk, mig-international.us, mig-iternational.directory, 
-mig-support.com, mig-support.info, mig-support.online, mig.auction, 
-mig.autos, mig.boats, mig.business.in, mig.cash, mig.charity, mig.contact, 
-mig.deals, mig.direct, mig.directory, mig.foundation, mig.global, mig.lat, 
-mig.skin, migadministration.com, migadministration.info, 
-migadministration.online, migb2b.com, migb2b.info, migb2b.online, 
-migforfuture.com, migforfuture.info, migforfuture.online, migglobal.ae, 
-miginternational.academy, miginternational.asia, miginternational.directory, 
-miginternational.eu, miginternational.foundation, miginternational.global, 
-miginternational.in, miginternational.lat, miginternational.uk, 
-miginternational.us
-```
-
-</details>
-
----
-
-## 🎯 **STRATEGIC IMPACT**
-
-<div align="center">
-
-### ![German Companies](https://img.shields.io/badge/🏭-FOR_GERMAN_COMPANIES-dc2626?style=for-the-badge&labelColor=000000)
-
-</div>
-
-- **🌍 Enhanced Global Visibility:** Direct access to international buyers and distributors
-- **📈 Market Expansion:** Simplified entry into new regional markets worldwide
-- **🏆 Brand Strengthening:** Leveraging the premium "Made in Germany" quality reputation
-- **🔗 Direct Connections:** Bypass intermediaries and connect directly with global buyers
-
-<div align="center">
-
-### ![International Buyers](https://img.shields.io/badge/🌐-FOR_INTERNATIONAL_BUYERS-FFD700?style=for-the-badge&labelColor=000000)
-
-</div>
-
-- **🎯 Targeted Search:** Find authentic German products faster and more efficiently
-- **✅ Quality Assurance:** Verified "Made in Germany" certification and authenticity
-- **🚀 Direct Access:** Connect with German manufacturers and suppliers directly
-- **📋 Specialized Platform:** Dedicated focus on German products and services
-
----
-
-## 📧 **CONTACT & CONNECT**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/✉️_EMAIL-andreas.thommen@made--in--germany.global-dc2626?style=for-the-badge&labelColor=000000)](mailto:andreas.thommen@made-in-germany.global)
-
-[![GitHub Personal](https://img.shields.io/badge/👤_PERSONAL-made--in--germany--global-1e40af?style=for-the-badge&logo=github&labelColor=0f172a)](https://github.com/made-in-germany-global)
-
-[![GitHub Organization](https://img.shields.io/badge/🏢_ORGANIZATION-made--in--germany--international-FFD700?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/made-in-germany-international)
 
 </div>
 
@@ -304,17 +294,27 @@ miginternational.us
 
 <div align="center">
 
-### ![Mission](https://img.shields.io/badge/🚀-STRENGTHENING_THE_GERMAN_EXPORT_INDUSTRY-dc2626?style=for-the-badge&labelColor=000000)
-### ![Vision](https://img.shields.io/badge/🌍-CONNECTING_GERMAN_EXCELLENCE_WITH_GLOBAL_MARKETS-1e40af?style=for-the-badge&labelColor=0f172a)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
 
 **Made with 💙 in Bremen, Germany**
 
----
-
-***"We are proud to own this extensive domain portfolio – which strengthens both the German export industry and Germany itself. With it, we can ensure that Germany and its products become visible worldwide – in all key markets, on all levels, for all target groups."***
-
-![Bremen](https://img.shields.io/badge/🏛️-HANSEATIC_CITY_OF_BREMEN-FFD700?style=for-the-badge&labelColor=000000)
-
-*Expanding German industrial excellence to every corner of the globe, one domain at a time.*
+*Connecting German Excellence with Global Markets*
 
 </div>
+
+<!-- Instructions for Language Toggle -->
+<!-- 
+GITHUB README LANGUAGE TOGGLE INSTRUCTIONS:
+
+Since GitHub doesn't support JavaScript in README files, the language toggle works through anchor links and manual section management. 
+
+To implement a working language toggle:
+
+1. Use the current structure with anchor links (#english-content, #german-content)
+2. For a more advanced solution, consider:
+   - Creating separate README files (README.md, README-de.md)
+   - Using GitHub Actions to automatically generate language versions
+   - Implementing a simple redirect system
+
+The current version provides a foundation that users can click to navigate between sections, though it won't hide/show content automatically due to GitHub's limitations.
+-->
