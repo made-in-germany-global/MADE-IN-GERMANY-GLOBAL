@@ -282,11 +282,10 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 ## 🌟 **Aktivitäts-Streaks**
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=made-in-germany-global&theme=dark&background=000000&border=FFD700&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=DC143C&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=made-in-germany-global&theme=dark&background=000000&border=FFD700&stroke=DC143C&ring=FFD700&fire=DC143C&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=DC143C&sideLabels=ffffff&dates=ffffff)
-
-</div>
 
 ---
 
