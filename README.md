@@ -24,7 +24,7 @@
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: white;">
 
-**Andreas Thommen** | *Geboren 1972 in Bremen, Deutschland* 🇩🇪
+**Andreas Thommen** | *Geboren 1972 in der Hansestadt Bremen, Deutschland* 🇩🇪
 
 Mit jahrelanger Berufserfahrung in **Vertrieb**, **Marketing** und **Online-Business** habe ich die Vision entwickelt, das Gütesiegel "Made in Germany" digital neu zu positionieren und sichtbar zu machen.
 
