@@ -312,7 +312,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 <div align="center">
 
-**🔧 Mit Leidenschaft in Deutschland entwickelt 🇩🇪 | Verbinden globaler Märkte seit 1972**
+**🔧 Mit Leidenschaft entwickelt 🇩🇪 | Verbinden globaler Märkte
 
 ![Profile Views](https://komarev.com/ghpvc/?username=made-in-germany-global&color=gold&style=for-the-badge&label=Profil+Aufrufe)
 ![GitHub followers](https://img.shields.io/github/followers/made-in-germany-global?style=for-the-badge&color=DC143C&labelColor=000000&logoColor=FFD700)
@@ -331,6 +331,8 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 ![Quality Badge](https://img.shields.io/badge/⭐_Qualität-Made%20in%20Germany-000000?style=for-the-badge&logo=star&logoColor=FFD700&labelColor=DC143C)
 
 </div>
+
+
 # 🇩🇪 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
 
 <div align="center">
@@ -645,7 +647,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 <div align="center">
 
-**🔧 Built with passion in Germany 🇩🇪 | Connecting global markets since 1972**
+**🔧 Built with passion 🇩🇪 | Connecting global Markets
 
 ![Profile Views](https://komarev.com/ghpvc/?username=made-in-germany-global&color=gold&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/made-in-germany-global?style=for-the-badge&color=DC143C&labelColor=000000&logoColor=FFD700)
