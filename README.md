@@ -1,3 +1,4 @@
+
 # 🇩🇪 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
 
 <div align="center">
@@ -333,7 +334,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 </div>
 
 
-
+<br><br>
 
 
 # 🇩🇪 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
