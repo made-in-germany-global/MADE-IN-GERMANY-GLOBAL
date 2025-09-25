@@ -1,4 +1,4 @@
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
 
 <div align="center">
 
@@ -331,7 +331,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 ![Quality Badge](https://img.shields.io/badge/⭐_Qualität-Made%20in%20Germany-000000?style=for-the-badge&logo=star&logoColor=FFD700&labelColor=DC143C)
 
 </div>
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL (Andreas Thommen)
 
 <div align="center">
 
