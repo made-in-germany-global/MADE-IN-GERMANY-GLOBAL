@@ -1,5 +1,5 @@
 
-# 🇩🇪 MADE-IN-GERMANY-GLOBAL - Urheber, Initiator & Gründer: Andreas Thommen (Geboren 1972 in der Hansestadt Bremen)
+# 🇩🇪 MADE-IN-GERMANY-GLOBAL - Urheber, Initiator & Gründer: Andreas Thommen (Geboren 1972, Hansestadt Bremen)
 
 <div align="center">
 
@@ -349,7 +349,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 <br>
 
 
-# 🇪🇳 MADE-IN-GERMANY-GLOBAL- Author, Initiator & Founder: Andreas Thommen (Born in 1972 in the Hanseatic city of Bremen)
+# 🇪🇳 MADE-IN-GERMANY-GLOBAL- Author, Initiator & Founder: Andreas Thommen (Born in 1972, Hanseatic city of Bremen)
 
 <div align="center">
 
