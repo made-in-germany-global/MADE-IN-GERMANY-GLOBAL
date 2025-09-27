@@ -29,20 +29,10 @@
 
 ---
 
-## 🌟 **Über mich**
+## 🌟 Made in Germany – Willkommen
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: white;">
 
-**Andreas Thommen** | *Geboren 1972 in der Hansestadt Bremen, Deutschland* 🇩🇪
-
-Mit jahrelanger Berufserfahrung in **Vertrieb**, **Marketing** und **Online-Business** habe ich die Vision entwickelt, das Gütesiegel "Made in Germany" digital neu zu positionieren und sichtbar zu machen.
-
-🎯 **Meine Ambition**: Deutsche Unternehmen und Hersteller international stärker positionieren – mit klarer Sichtbarkeit für Einkäufer und Distributoren weltweit.
-
-
-# Made in Germany – Initiator & Gründer: Andreas Thommen (**Hansestadt Bremen**, 1972)
-
-Willkommen.  
 Dies ist die persönliche Visitenkarte von Andreas Thommen, Initiator und Gründer von Made in Germany Global und Made in Germany International.  
 Als erfahrener Vertriebs- und Online-Experte aus der Hansestadt Bremen / Hanseatic City of Bremen verknüpfe ich jahrzehntelange Praxis in Vertrieb, Export und digitalen Strategien mit der klaren Vision, deutsche Qualitätsprodukte international sichtbar zu machen.
 
