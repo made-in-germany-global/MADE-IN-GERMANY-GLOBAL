@@ -65,6 +65,66 @@ Made in Germany Global will die internationale Wahrnehmung deutscher Qualitätsp
 
 Kernbegriffe der Vision: Made in Germany, Made-in-Germany Global, Made-in-Germany International, Made-in-Germany Products, Made-in-Germany Excellence, Export, B2B, International Trade, Manufacturing Excellence.
 
+---
+
+## Projekt-Pfeiler / Kernbereiche
+1. Sichtbarkeit & Marketing  
+   - Aufbau digitaler Kanäle für deutsche Hersteller  
+   - SEO, Content, Brand-Positioning: Made-in-Germany Global / International / Products / Excellence
+
+2. B2B Plattform & Technologie  
+   - Online-Marktplatz, Produktkataloge, Sample Orders, Business Enquiry  
+   - Moderne E-Commerce- und Integrationslösungen (APIs, Headless, Performance)
+
+3. Export, Import & Logistik  
+   - Versandprozesse, Container-Optionen, Warehousing, Trade Compliance  
+   - Partnerschaften mit Logistik-Dienstleistern und Zollexperten
+
+4. Partnerschaften & Netzwerk  
+   - Chambers network, cooperation opportunities, educational & research partnerships  
+   - Strategische Investments, Franchise & Talent Acquisition
+
+5. Impact & Nachhaltigkeit  
+   - Global impact projects (environmental projects, clean water, future generation)  
+   - Corporate Social Responsibility & nachhaltige Lieferketten
+
+---
+
+## Für wen ist das relevant?
+- Hersteller & Produzenten aus Deutschland, die international wachsen wollen  
+- Einkäufer & Distributoren weltweit, die auf Qualität setzen  
+- Investoren & Partner, die in deutsche Exzellenz investieren möchten  
+- Entwickler & Dienstleister für digitale Lösungen, Logistik & Marktzugang
+
+---
+
+## Zusammenarbeit & Beiträge
+Wenn du aktiv mitarbeiten willst (Code, Content, Translation, Marketing, Logistics), kontaktiere mich bitte. Für kurzfristige Downloads geben wir **Read**-Zugriff; für regelmäßige Beiträge **Write**-Zugriff nach Absprache. Workflows: Branch → Pull Request → Review → Merge (Branch Protection auf Wunsch).
+
+---
+
+## Keywords (SEO / Sichtbarkeit)
+Made in Germany, Made-in-Germany, Made-in-Germany Global, Made-in-Germany International, Made-in-Germany Products, Made-in-Germany Excellence, Andreas Thommen, Andreas Thommen Bremen, Andreas Thommen Deutschland, German manufacturers, German quality products, export, export promotion, export logistics, buyer and distributors, B2B marketplace, international trade, supply chain, warehousing, shipping process, container option, sample orders, business enquiry, virtual showrooms, digital platform, e-commerce, manufacturing excellence, strategic investments, franchise, talent acquisition, clean water, environmental projects, future generation, chambers network, policy trade, cooperation opportunities, sustainability, CSR
+
+---
+
+## Kontakt & Verweise
+- E-Mail: [thommen.madeingermany.global.at]  
+- Webseite / Portal: [https://made-in-germany.global](https://made-in-germany.global)  
+- GitHub-Account: [https://github.com/made-in-germany-global](https://github.com/made-in-germany-global)  
+- GitHub-Organisation: [https://github.com/made-in-germany-international](https://github.com/made-in-germany-international)  
+- Weitere Domain: [https://made-in-germany.global](https://made-in-germany.uk)
+
+---
+
+## Hinweis
+Dieses Repository ist meine persönliche Visitenkarte und verweist auf die offizielle Organisation Made in Germany Global. Die technische Entwicklung, Repositories und das operative Projektmanagement laufen primär in der Organisation.
+
+---
+
+Call to Action:  
+Wenn Sie Hersteller sind, Einkäufer, Investor oder Entwickler und Interesse an einer Zusammenarbeit haben — schreiben Sie mir. Gemeinsam bringen wir deutsche Qualitätsprodukte global in Position: Made-in-Germany Global und Made-in-Germany International.
+
 </div>
 
 ---
