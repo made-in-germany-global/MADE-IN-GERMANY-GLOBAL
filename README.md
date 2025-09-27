@@ -29,7 +29,7 @@
 
 ---
 
-## 🌟 Willkommen bei Andreas Thommen und MADE IN GERMANY
+## 🌟 Willkommen bei Andreas Thommen und MADE-IN-GERMANY © 
 
 <div style="background: linear-gradient(135deg, #000000 0%, #1a1a2e 50%, #DC143C 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #FFD700; color: white;">
 
