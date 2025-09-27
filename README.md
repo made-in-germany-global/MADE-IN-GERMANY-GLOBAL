@@ -388,7 +388,7 @@ germany-for-future.com, germany-for-future.org, germany-go-next.com, germanyforf
 
 <div align="center">
 
-### 🌟 **"Deutsche Exzellenz weltweit stärken"** 🌟
+## 🌟 **"Deutsche Exzellenz weltweit stärken"** 🌟
 
 Made in Germany steht seit jeher für höchste Qualität, Präzision und Innovationskraft – in Industrie, Technologie, Forschung und nachhaltigen Lösungen. Ob Medizintechnik, Maschinenbau, Hightech, Automobilbau, Landwirtschaftstechnik, Energieeffizienz, Wasserstofftechnologie, Industrie 4.0, Digitalisierung, Softwarelösungen oder intelligente Plattformen – deutsche Produkte und Dienstleistungen genießen weltweit Vertrauen und höchste Anerkennung.
 
